@@ -1,3 +1,6 @@
+html{
+    scroll-behavior: smooth;
+}
 body{
     /* background-color: rgb(220, 245, 241); */
     background-color: white;
