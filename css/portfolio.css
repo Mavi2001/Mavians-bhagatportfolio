@@ -1,0 +1,30 @@
+body{
+    /* background-color: rgb(220, 245, 241); */
+    background-color: white;
+}
+.navitems{
+    font-size: 18px;
+    font-weight: 700;
+}
+.logo{
+    width:20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.logo img{
+    width: 120px;
+    /* border: solid white; */
+    /* border-radius: 80px; */
+}
+.navitems:hover{
+    color: rgb(250, 42, 111);
+}
+#portfolio{
+    color: rgb(250, 42, 111);
+}
+
+.name{
+    color: rgb(250, 42, 111);
+    font-weight: 500;
+}

@@ -1,0 +1,38 @@
+body{
+    /* background-color: rgb(220, 245, 241); */
+    background-color: white;
+}
+.logo{
+    width:20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.logo img{
+    width: 120px;
+    /* border: solid white; */
+    /* border-radius: 80px; */
+}
+/* .navbaar{
+    position: sticky;
+} */
+.navitems{
+    font-size: 18px;
+    font-weight: 700;
+}
+.navitems:hover{
+    color: rgb(250, 42, 111);
+}
+#home{
+    color: rgb(250, 42, 111);
+}
+.name{
+    color: rgb(250, 42, 111);
+    font-weight: 500;
+}
+.namee{
+    color: rgb(250, 42, 111);
+    font-size: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
